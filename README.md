@@ -1,4 +1,4 @@
-Here's a `README.md` file that covers the steps to set up and run the project, including setting up the backend with a virtual environment, installing dependencies, and running both the backend and frontend.
+This ReadME covers the steps to set up and run the project, including setting up the backend with a virtual environment, installing dependencies, and running both the backend and frontend.
 
 ```markdown
 # Chatbot Application
